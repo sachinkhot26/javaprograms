@@ -26,6 +26,7 @@ public class NumberOfStrings {
 				}
 			}
 			
+			
 			if(str.charAt(i)!=' ') {
 				System.out.print( str.charAt(i)  +  ""+  count);
 			}
